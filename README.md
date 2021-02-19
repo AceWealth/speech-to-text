@@ -1,3 +1,4 @@
+**[![Netlify Status](https://api.netlify.com/api/v1/badges/0ddf7073-58d2-44c6-804e-6a4a6383c799/deploy-status)](https://app.netlify.com/sites/affectionate-joliot-6c459f/deploys)**
 # Speech To Text Module
 
 A demo for the [speech-to-text module](https://github.com/magician11/speech-to-text).
